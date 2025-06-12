@@ -32,7 +32,7 @@ console.log(string3.repeat(4) + " Batman!");
 
 /*******************************************
        Iteration 4 | Fruite Slice
-*******************************************/
+********************************/
 // Using the string method .slice(), access and print to the console the name of your favorite fruit from a given string
 
 const fruit =
@@ -55,7 +55,7 @@ console.log(favoriteFruit);
 // else print the message "The string does not include the word 'oxygen'".
 
 const funnyHeadline1 = "Breathing oxygen linked to staying alive";
-const funnyHeadline2 = "Students Cook & Serve Grandparents";
+const funnyHeadline2 = "Students Cook & Serve Grandparents and so on";
 
 // Check the first headline
 const includesOxygen1 = funnyHeadline1.includes("oxygen");
